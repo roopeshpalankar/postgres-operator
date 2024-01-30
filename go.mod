@@ -3,7 +3,7 @@ module github.com/crunchydata/postgres-operator
 go 1.19
 
 require (
-	github.com/evanphx/json-patch/v5 v5.6.0
+	github.com/evanphx/json-patch/v5 v5.9.0
 	github.com/go-logr/logr v1.3.0
 	github.com/golang-jwt/jwt/v5 v5.0.0
 	github.com/google/go-cmp v0.5.9
